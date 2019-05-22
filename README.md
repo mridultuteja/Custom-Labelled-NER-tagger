@@ -15,7 +15,7 @@ Create a prop.txt file in train folder inside stanford-ner-tagger folder and wri
 
 ```
 trainFile = train/output.tsv
-serializeTo = dummy-ner-model-french.ser.gz
+serializeTo = dummy-ner-model-test.ser.gz
 map = word=0,answer=1
 
 useClassFeature=true
